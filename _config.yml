@@ -8,8 +8,9 @@ subtitle: ''
 description: ''
 keywords:
 author: John Doe
-language: en
+language: zh-CN
 timezone: ''
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
@@ -100,5 +101,15 @@ theme: aria
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+
 deploy:
-  type: ''
+  type: git
+  repo: <repository url>
+  branch: [branch]
+  token: ''
+  message: [message]
+  name: [git user]
+  email: [git email]
+  extend_dirs: [extend directory]
+  ignore_hidden: false # default is true
+  ignore_pattern: regexp  # whatever file that matches the regexp will be ignored when deploying
