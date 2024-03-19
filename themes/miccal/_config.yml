@@ -4,33 +4,33 @@
 
 # Head info
 head:
-    favicon: "/img/logo_miccall.png"
-    keywords: miccall
-    backgroundpic : "img/bg.jpg"
+    favicon: "./img/logo_miccall.png"
+    keywords: mright
+    backgroundpic : "./img/bg.jpg"
 
 Intro:
-    name: MICCALL
-    slogan: "Whatever is worth doing is worth doing well <br/> I'll think of you every step of the way"
-    HeadButton: MICCALL
+    name: Mright
+    slogan: "RTFM <br/> STFW <br/>RTFSC"
+    HeadButton: Mright
 
 Nav:
     Home_name: 主页
-    is_use_categories : true 
+    is_use_categories : true
     categories_name: 分类
-    is_use_archives : false
+    is_use_archives : true
     archives_name: 归档
     
     #Social
     # for more icons, please see http://fontawesome.io/icons/#brand
     icon:
-        github: https://github.com/miccall
-        500px: http://500px.com
+        github: https://github.com/Mright0705
+        wechat: "./img/wechat.jpg"
         
     pages:
-        简历: 
-            link: "/about/"
-        团队 :
-            link: "/group/"
+        Docker: 
+            link: "https://docs.docker.com/?_gl=1*m9rgms*_ga*NzYyMTYyNTc3LjE3MTA3NzQ4MzM.*_ga_XJWPQMJYHQ*MTcxMDgzNTMzMy40LjAuMTcxMDgzNTMzMy42MC4wLjA."
+        kubernetes :
+            link: "https://kubernetes.io/docs/home/"
         图库 :
             link: "/gallery/"
         标签:
