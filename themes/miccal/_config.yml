@@ -4,9 +4,9 @@
 
 # Head info
 head:
-    favicon: "./img/logo_miccall.png"
+    favicon: "./img/logo.png"
     keywords: mright
-    backgroundpic : "./img/bg.jpg"
+    backgroundpic : "./img/bg.jpeg" # 1920*1080
 
 Intro:
     name: Mright
@@ -44,8 +44,8 @@ Nav:
 
 MainFirst:
     name: Mright
-    description: Technical  Artist  of  Games   
-    pic_url: /images/me.jpg
+    description: Never say Never   
+    pic_url: /img/logo.png
     goto_ulr: ""
 
 Gallery :
