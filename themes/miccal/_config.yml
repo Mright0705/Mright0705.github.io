@@ -31,6 +31,10 @@ Nav:
             link: "https://docs.docker.com/?_gl=1*m9rgms*_ga*NzYyMTYyNTc3LjE3MTA3NzQ4MzM.*_ga_XJWPQMJYHQ*MTcxMDgzNTMzMy40LjAuMTcxMDgzNTMzMy42MC4wLjA."
         kubernetes :
             link: "https://kubernetes.io/docs/home/"
+        简历:
+            link: "/about/"
+        团队 :
+            link: "/group/"
         图库 :
             link: "/gallery/"
         标签:
@@ -39,13 +43,13 @@ Nav:
         #   link：“路径”
 
 MainFirst:
-    name: Miccall Metro
+    name: Mright
     description: Technical  Artist  of  Games   
     pic_url: /images/me.jpg
     goto_ulr: ""
 
 Gallery :
-    title: Mr.metro 
+    title: Mright 
     description: Just another fine responsive 
 
 # ---------------------------------------------------------------
